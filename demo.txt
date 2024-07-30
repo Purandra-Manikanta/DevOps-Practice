@@ -1,4 +1,1 @@
-hi welcome to DevOps
-<<<<<<< HEAD
-third line from the local sys
-=======
+Hi, this is commit from dev branch
