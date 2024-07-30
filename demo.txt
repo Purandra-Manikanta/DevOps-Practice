@@ -1,3 +1,4 @@
-hellothis is second line
-
-helooooo
+hi welcome to DevOps
+<<<<<<< HEAD
+third line from the local sys
+=======
